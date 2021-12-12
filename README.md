@@ -24,15 +24,22 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a> 
  <a style="padding-right:8px;" href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
- <a style="padding-right:8px;" href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/numpy.png"/></a>
- 
+ <a style="padding-right:8px;" href="https://numpy.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/numpy.png"/></a>
+  <a style="padding-right:8px;" href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/></a>
+
+   <a style="padding-right:8px;" href="#" target="_blank"> 
+ <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+
+   <a style="padding-right:8px;" href="#" target="_blank"> 
+ <img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
+
+
 </p>
 
 ## Find me at:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/mohamedhz/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> &nbsp; &nbsp;
-<a href = "https://twitter.com/MohamedHamza__" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a> &nbsp; &nbsp;
-<a href = "https://stackoverflow.com/users/10852413/mohamed-hamza?tab=profile" target="_blank"><img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg/" width="200" height="56"/></a>
+<a href = "https://www.linkedin.com/in/mahmoud-nasser-abdulhamed/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> &nbsp; &nbsp;
+<a href = "https://stackoverflow.com/users/14543780/mahmoud-nasser" target="_blank"><img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg/" width="200" height="56"/></a>
 
 </p>
