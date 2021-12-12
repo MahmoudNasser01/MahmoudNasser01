@@ -1,10 +1,10 @@
-<a href="https://github.com/MohamedAliHamza">
+<a href="https://github.com/elMeniwy">
 <!--  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/> -->
  <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
 </a>
 
-<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed Hamza</h1>
-<h3 align="center">I'm a Python Developer</h3>
+<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahmoud Nasser</h1>
+<h3 align="center">Python Developer | ML Engineer</h3>
 
 ## 🙋‍♂️ About me
 
@@ -24,6 +24,8 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a> 
  <a style="padding-right:8px;" href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
+ <a style="padding-right:8px;" href="https://ubuntu.com/" target="_blank"> <img src=" https://img.icons8.com/color/2x/numpy.png"/></a>
+ 
 </p>
 
 ## Find me at:
